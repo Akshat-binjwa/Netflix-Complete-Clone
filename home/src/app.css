@@ -1,0 +1,62 @@
+
+.background-img {
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    box-shadow: 11px 10px 800px 100px black inset
+  }
+
+  .logo {
+    height: 2rem;
+    width: 8rem;
+
+  }
+
+  .main {
+
+    width: 100vw;
+    height: 84vh;
+
+  }
+
+  .main-h {
+    opacity: 100%;
+    letter-spacing: 0rem;
+    font-size: 3.5em;
+    font-weight: bolder;
+  }
+
+  .input-group {
+    height: 60px;
+    width: auto;
+  }
+
+  .btn-button {
+    background-color: #e50914;
+    width: 230px;
+    box-sizing: border-box;
+    display: flex;
+    box-shadow: 50px 50px 50px 50px red inset;
+    font-size: 22px;
+    text-align: center;
+    justify-content: center;
+    color: #ffff;
+    background-color: #e50914;
+    align-items: center;
+    padding-top: 0px;
+
+  }
+  
+  .background{
+    background-Image:url('Images/background.jpg');
+  }
+
+  .Fool{
+    background-image: url('Images/fool.jpg');
+  }
+  .bg-img {
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+  }
